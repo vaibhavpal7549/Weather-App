@@ -2,6 +2,13 @@
 
 A simple web project built with HTML, CSS, and JavaScript. This project showcases the basic principles of front-end development, including responsive design, interactive elements, and modern web development practices.
 
+## Live Demo
+
+Check out the live version of the project:
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Here-blue)](https://vaibhavpal7549.github.io/Weather-App/)
+
+
 ## Features:
 - **HTML**: Structured layout with semantic elements for accessibility.
 - **CSS**: Stylish, responsive design using Flexbox/Grid and media queries.
