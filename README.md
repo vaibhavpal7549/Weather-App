@@ -6,7 +6,7 @@ A simple web project built with HTML, CSS, and JavaScript. This project showcase
 
 Check out the live version of the project:
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Here-blue)](https://vaibhavpal7549.github.io/Weather-App/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Here-blue)](https://weather-app-vp.vercel.app/)
 
 
 ## Features:
